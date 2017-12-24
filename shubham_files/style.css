@@ -1513,10 +1513,10 @@ h4.modal-title {
 @media(max-width:600px){
 	.w3-banner-img {
     width: 257px;
-    height: 257px;
+    height: 270px;
 	}
 	.w3-banner-img {
-    padding: 22px;
+    padding: 7px;
 	}
 	.w3-banner-text p {
     width: 100%;
